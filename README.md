@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="Lochan Paudel - GitHub Banner" width="100%" />
+<img src="banner.png" alt="Lochan Paudel - GitHub Banner" width="100%" />
 
 # Hey there, I'm Lochan Paudel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
