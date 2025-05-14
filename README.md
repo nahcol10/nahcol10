@@ -13,7 +13,7 @@
 ## 🚀 What I'm Currently Up To:
 
 *   🧠 Diving deep into **Advanced Deep Learning Architectures** (especially Transformers!).
-*   <img src="https://www.vectorlogo.zone/logos/sktime/sktime-icon.svg" alt="sktime" width="18" height="18" /> Actively contributing as a **Mentee** in the **sktime Mentorship Programme**.
+*   <img src="https://avatars.githubusercontent.com/u/56396127?s=48&v=4" alt="sktime" width="18" height="18" /> Actively contributing as a **Mentee** in the **sktime Mentorship Programme**.
 *   💻 Exploring the frontiers of **MLOps** for robust and scalable machine learning solutions.
 *   🌐 Building full-stack applications and honing my skills in **cloud technologies**.
 *   💡 Contributing to impactful **Open Source** projects.
