@@ -54,6 +54,11 @@
 **Frontend:**
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
 </p>
 
 **DevOps, Cloud & MLOps:**
@@ -68,56 +73,21 @@
 
 ---
 
-## ✨ Featured Creations:
-
-Here are a few projects I've poured my passion into. Check out my repositories for more!
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📜 RenAlssance</h3>
-      <p>A deep learning system to decipher challenging handwritten Renaissance Spanish manuscripts, bringing historical texts to the digital age.</p>
-      <p><em><strong>Tech:</strong> Python, OCR (Deep Learning), Image Processing</em></p>
-      <a href="https://github.com/your-github-username/RenAlssance" target="_blank">[[Source Code]]</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Attention Is All You Need (From Scratch)</h3>
-      <p>A fundamental implementation of the original Transformer paper, exploring the core mechanics of sequence-to-sequence modeling.</p>
-      <p><em><strong>Tech:</strong> Python, PyTorch, Linear Algebra, Calculus</em></p>
-      <a href="https://github.com/your-github-username/AttentionIsAllYouNeed" target="_blank">[[Source Code]]</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Vehicle Insurance Purchase Analysis</h3>
-      <p>An end-to-end ML pipeline analyzing customer and vehicle data to uncover key drivers behind insurance purchase decisions.</p>
-      <p><em><strong>Tech:</strong> Python, Pandas, Scikit-learn, Docker, AWS (S3, EC2)</em></p>
-      <a href="https://github.com/your-github-username/VehicleInsuranceAnalysis" target="_blank">[[Source Code]]</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ CloudRelay - File Sharing Platform</h3>
-      <p>A user-friendly web application for seamless, login-free file sharing, built for scalability and resilience.</p>
-      <p><em><strong>Tech:</strong> Java, Spring Boot, MySQL, React, Docker, Kubernetes</em></p>
-      <a href="https://github.com/your-github-username/CloudRelay" target="_blank">[[Source Code]]</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏆 Milestones & Recognitions:
 
 *   **COMPEX Scholarship Recipient (Embassy of India, Nepal)**
     *   Awarded a prestigious full scholarship for B.Tech studies based on high academic merit. (Aug 2023 - Present)
 *   **sktime Mentorship Programme Selectee**
-    *   Accepted into the mentorship program for contributions and potential in the open-source time series community. (April 2025 - Present)
+    *   Accepted into the mentorship program for contributions and potential in the open-source time series community. (April 2023 - Present)
 
 ---
 
 ## 🌱 I'm Currently Learning / Exploring:
 
-*   Currently Learning to build LLM from scratch like GPT,DeepSeek.
-*   Advanced MLOps techniques for production-grade ML systems.
+*   Building LLMs from scratch (architecture and implementation of models like GPT and DeepSeek)
+*   Advanced MLOps techniques for production-grade ML systems
+*   Efficient fine-tuning methods for domain-specific language models
+*   Distributed training strategies for large-scale deep learning models
 
 ---
 
@@ -134,8 +104,7 @@ Here are a few projects I've poured my passion into. Check out my repositories f
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahcol10/nahcol10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahcol10/nahcol10/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nahcol10/nahcol10/output/github-snake.svg" />
 </picture>
--->
