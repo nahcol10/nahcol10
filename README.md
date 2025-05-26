@@ -14,6 +14,7 @@
 
 *   🧠 Diving deep into **Advanced Deep Learning Architectures** (especially Transformers!).
 *   <img src="https://avatars.githubusercontent.com/u/56396127?s=48&v=4" alt="sktime" width="18" height="18" /> Actively contributing as a **Mentee** in the **sktime Mentorship Programme**.
+*   <img src="https://avatars.githubusercontent.com/u/35617018?s=48&v=4" width="18" height="18"> Working as a **Mentee** in the **LFX Mentorship** program on **LFDT's Multi-Agent RAG for AIFAQ** project.
 *   💻 Exploring the frontiers of **MLOps** for robust and scalable machine learning solutions.
 *   🌐 Building full-stack applications and honing my skills in **cloud technologies**.
 *   💡 Contributing to impactful **Open Source** projects.
