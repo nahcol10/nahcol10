@@ -3,7 +3,7 @@
 # Hey there, I'm Lochan Paudel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
 <p align="left">
-  I'm a passionate and driven Artificial Intelligence & Machine Learning enthusiast from Nepal(🇳🇵), currently pursuing my B.Tech at <strong>Symbiosis Institute of Technology</strong>.
+  I'm a passionate and driven Artificial Intelligence & Machine Learning enthusiast from Nepal [🇳🇵], currently pursuing my B.Tech at <strong>Symbiosis Institute of Technology</strong>.
   My journey is fueled by a deep curiosity for building intelligent systems, a love for problem-solving, and a strong belief in the power of open-source collaboration.
   I'm always eager to learn, contribute, and make a tangible impact with technology.
 </p>
